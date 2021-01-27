@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+to run this project:
+docker build .
+docker run -f <local_port>:80 <id>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
