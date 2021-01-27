@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 to run this project:
+
 docker build .
 
 docker run -f <local_port>:80 <id>
