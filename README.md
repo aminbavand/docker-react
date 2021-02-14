@@ -1,5 +1,7 @@
 # Getting Started with Create React App
-to run this project:
+This project was uploaded to AWS using elastic beanstalk service.
+
+to run this project locally:
 
 docker build .
 
